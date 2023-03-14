@@ -5,6 +5,7 @@
 - Recognize basic HTML table elements
 - Create HTML tables
 
+
 ## Introduction
 
 In HTML, we can create lists of related content using unordered and ordered
